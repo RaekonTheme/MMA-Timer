@@ -1,5 +1,5 @@
 ### Privacy Policy
-Your privacy is important to us. It is Yanuj Incc's policy to respect your privacy regarding any information we may collect from you through our app, UFC Timer.
+Your privacy is important to us. It is Yanuj Incc's policy to respect your privacy regarding any information we may collect from you through our app, MMA Timer.
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
