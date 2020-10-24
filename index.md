@@ -1,4 +1,4 @@
-### ***UFC TIMER***
+### ***MMA TIMER***
 A round-by-round UFC themed timer that gives the closest experience to a UFC timer.
 This app features include
 * UFC themed timer
